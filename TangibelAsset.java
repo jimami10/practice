@@ -10,6 +10,6 @@ public abstract class TangibleAsset {
   }
 
   public String getName() { return this.name; }
-  public int get Price() { return this.price; }
+  public int getPrice() { return this.price; }
   public String getColor() { return this.color;}
 }
